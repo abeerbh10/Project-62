@@ -1,0 +1,25 @@
+.link {
+    display:inline-block;
+    text-align: center;
+}
+#home h1{
+    font-weight: bold;
+    color: chartreuse;
+    text-align: center;
+        
+}
+.image{
+    width: 200px;
+
+    height: 200px;
+    
+}
+#grid h2{
+    font-weight: bold;
+    color: chartreuse;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
